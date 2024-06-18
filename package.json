@@ -1,0 +1,25 @@
+{
+  "name": "webdevelopment",
+  "version": "1.0.0",
+  "description": "Library management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "mongodb",
+    "librarymanagement",
+    "system"
+  ],
+  "author": "Ashish Sandhu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "path": "^0.12.7"
+  }
+}
